@@ -19,7 +19,11 @@ else
 { alert("Not available") }
 
 var fruit = prompt("How much do you want ?")
+<<<<<<< HEAD
 for(i=0;i<fruit;i++)
+=======
+for(i=0;i<10;i++)
+>>>>>>> e93202f3e4abe2a3ec338f91cc195a2662f43a76
 {
 document.write("<br>")
 document.write("<img src='https://static.libertyprim.com/files/familles/pomme-large.jpg?1569271834'</img>")
