@@ -19,7 +19,9 @@ else
 { alert("Not available") }
 
 var fruit = prompt("How much do you want ?")
-for(i=0;i<=10;i++)
+for(i=0;i<fruit;i++)
 {
-console.log(favfruit + " is available")
+document.write("<br>")
+document.write("<img src='https://static.libertyprim.com/files/familles/pomme-large.jpg?1569271834'</img>")
+document.write(i)
 }
